@@ -19,6 +19,11 @@ namespace Tabuleiro
             Pecas = new Peca[linhas, colunas];
         }
 
+        public Peca Peca(Posicao p)
+        {
+            return Pecas[p.Linha, p.Coluna];
+        }
+
         public Peca Peca(int linha, int coluna)
         {
             return Pecas[linha, coluna];
@@ -26,7 +31,31 @@ namespace Tabuleiro
 
         public void PosicionarPeca(Peca p, Posicao pos)
         {
+            ValidarPosicao(pos);
+            ExistePeca(pos);
             Pecas[pos.Linha, pos.Coluna] = p;
+        }
+
+        public bool ExistePeca(Posicao pos)
+        {
+            ValidarPosicao(pos);
+            return Peca(pos) != null;
+        }
+
+        public bool PosicaoValida(Posicao pos)
+        {
+            return (pos.Linha > -1 
+                && pos.Linha < Linhas 
+                && pos.Coluna > -1 
+                && pos.Coluna < Colunas);
+        }
+
+        public void ValidarPosicao(Posicao pos)
+        {
+            if (!PosicaoValida(pos))
+            {
+                throw new TabuleiroException("Posição inválida! [" + pos.ToString() + "]");
+            }
         }
     }
 }
