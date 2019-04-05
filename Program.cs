@@ -35,6 +35,9 @@ namespace XadrezConsole
                 tabuleiro.PosicionarPeca(new Rei(tabuleiro, Cor.Branca), new Posicao(7, 4));
 
                 Tela.ImprimirTabuleiro(tabuleiro);
+
+                Console.WriteLine();
+                Console.WriteLine();
             }
             catch (TabuleiroException e)
             {

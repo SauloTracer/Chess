@@ -53,6 +53,7 @@
     <Compile Include="Xadrez\Bispo.cs" />
     <Compile Include="Xadrez\Cavalo.cs" />
     <Compile Include="Xadrez\Peao.cs" />
+    <Compile Include="Xadrez\PosicaoXadrez.cs" />
     <Compile Include="Xadrez\Rainha.cs" />
     <Compile Include="Xadrez\Rei.cs" />
     <Compile Include="Xadrez\Torre.cs" />
