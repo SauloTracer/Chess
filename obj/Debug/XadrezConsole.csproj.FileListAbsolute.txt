@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleApp1\XadrezConsole\bin\Debug\XadrezConsole.exe.config
+C:\Users\User\source\repos\ConsoleApp1\XadrezConsole\bin\Debug\XadrezConsole.exe
+C:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.exe
+C:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.pdb
+C:\Users\User\source\repos\ConsoleApp1\XadrezConsole\bin\Debug\XadrezConsole.pdb
+C:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.csprojResolveAssemblyReference.cache
+F:\Users\User\source\repos\ConsoleApp1\XadrezConsole\bin\Debug\XadrezConsole.exe.config
+F:\Users\User\source\repos\ConsoleApp1\XadrezConsole\bin\Debug\XadrezConsole.exe
+F:\Users\User\source\repos\ConsoleApp1\XadrezConsole\bin\Debug\XadrezConsole.pdb
+F:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.csprojAssemblyReference.cache
+F:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.csproj.CoreCompileInputs.cache
+F:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.exe
+F:\Users\User\source\repos\ConsoleApp1\XadrezConsole\obj\Debug\XadrezConsole.pdb
